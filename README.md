@@ -1,5 +1,5 @@
 # Fala visitante! Welcome 🤙🏾
-📚 Cursando quarto semestre Análise e Desenvolvimento de Sistemas na FATEC Franca-SP. <br>
+📚 Cursando quinto semestre Análise e Desenvolvimento de Sistemas na FATEC Franca-SP. <br>
 💻 Atuando como Técnico de Suporte. <br>
  🔋 Disponível para contribuições, conexões e novas oportunidades. <br>
 🎧 Amante da boa música e da natureza 🍃. <br>
