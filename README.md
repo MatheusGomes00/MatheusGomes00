@@ -1,13 +1,13 @@
-# Fala visitante! Welcome 🤙🏾
-📚 Cursando quinto semestre Análise e Desenvolvimento de Sistemas na FATEC Franca-SP. <br>
-💻 Atuando como Técnico de Suporte. <br>
- 🔋 Disponível para contribuições, conexões e novas oportunidades. <br>
+# Olá visitante! Welcome 🤙🏾
+📚 Cursando sexto semestre Análise e Desenvolvimento de Sistemas na FATEC Franca-SP. <br>
+💻 Atuando como Técnico de Suporte e Desenvolvedor Backend. <br>
+🔋 Disponível para contribuições, conexões e novas oportunidades. <br>
 🎧 Amante da boa música e da natureza 🍃. <br>
 ⚽ Um gosto por esportes.
  
 ## Conect-se Comigo 👋🏾
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-gomes00/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/wordshinigam/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/wordshinigam/)
 
 ## Habilidades
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -22,7 +22,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusGomes00&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Projetos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGomes00&repo=Projeto_Sistema_Bancario&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MatheusGomes00/Projeto_Sistema_Bancario)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?
+username=MatheusGomes00&repo=Desafio Xadrez&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MatheusGomes00/desafio-xadrez1)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGomes00&repo=Trilhas_Aprendizado_Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MatheusGomes00/Trilhas_Aprendizado_Python)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGomes00&repo=Projeto_Engenharia_Software_III&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MatheusGomes00/Projeto_Engenharia_Software_III)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGomes00&repo=DIO-BootcampSantanderBackEnd-Java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MatheusGomes00/DIO-BootcampSantanderBackEnd-Java)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?
+username=MatheusGomes00&repo=Sistema-Gestao-Estacionamento&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MatheusGomes00/sistema-gestao-estacionamento)
