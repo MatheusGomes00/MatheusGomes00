@@ -18,11 +18,4 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusGomes00&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Projetos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGomes00&repo=desafio-xadrez1&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MatheusGomes00/desafio-xadrez1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGomes00&repo=Trilhas_Aprendizado_Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MatheusGomes00/Trilhas_Aprendizado_Python)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGomes00&repo=Projeto_Engenharia_Software_III&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MatheusGomes00/Projeto_Engenharia_Software_III)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGomes00&repo=sistema-gestao-estacionamento&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MatheusGomes00/sistema-gestao-estacionamento)
