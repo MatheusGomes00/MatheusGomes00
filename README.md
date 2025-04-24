@@ -1,4 +1,4 @@
-# Olá visitante! Welcome 🤙🏾
+# Olá visitante! 
 📚 Cursando sexto semestre Análise e Desenvolvimento de Sistemas na FATEC Franca-SP. <br>
 💻 Atuando como Técnico de Suporte e Desenvolvedor Backend. <br>
 🔋 Disponível para contribuições, conexões e novas oportunidades. <br>
