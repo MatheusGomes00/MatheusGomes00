@@ -1,6 +1,6 @@
 # Olá visitante! 
 📚 Cursando sexto semestre Análise e Desenvolvimento de Sistemas na FATEC Franca-SP. <br>
-💻 Atuando como Técnico de Suporte e Desenvolvedor Backend. <br>
+💻 Atuando como Desenvolvedor Backend com foco em Java. <br>
 🔋 Disponível para contribuições, conexões e novas oportunidades. <br>
 🎧 Amante da boa música e da natureza 🍃. <br>
 ⚽ Um gosto por esportes.
