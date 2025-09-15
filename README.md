@@ -1,6 +1,6 @@
 # 👋🏾 Olá, seja bem-vindo(a)! 
 Sou **Matheus Gomes**, formado em **Análise e Desenvolvimento de Sistemas** pela **FATEC Franca-SP**. <br>
-**Desenvolvedor Fullstack** em formação, tenho experiência com **desenvolvimento backend em Java e SpringBoot**, atualmente estudando **Frontend**. Sempre em busca de evoluir minhas habilidades, contribuir com projetos e explorar novas tecnologias. <br>
+**Desenvolvedor de sistemas**, iniciei minha trajetória com Python estudando lógica de programação e algoritmos. Depois tive experiências com **desenvolvimento backend em Java e SpringBoot, NodeJS e Express**, atualmente estudando **Frontend** e **IA**. Sempre em busca de evoluir minhas habilidades, contribuir com projetos e explorar novas tecnologias. <br>
 
 ## Algumas coisas sobre mim: <br>
 
@@ -16,6 +16,7 @@ Sou **Matheus Gomes**, formado em **Análise e Desenvolvimento de Sistemas** pel
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 
 **Banco de dados** <br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
